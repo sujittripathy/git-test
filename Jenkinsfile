@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('One') {
                 steps {
-                        echo 'Hi>>>>, this is Sujit, performing POC on jenkins pipeline'
+                        echo '31Hi!!!!, this is Sujit, performing POC on jenkins pipelinei ??/
 			
                 }
         }
